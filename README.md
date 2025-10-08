@@ -96,4 +96,7 @@ Based on analysis and predictions:
 This project demonstrates how data science can be applied to solve real-world business problems.  
 By understanding churn behavior, companies can make data-driven decisions to **increase customer retention and revenue.**
 
+For any assistance reach me at : ayeshawork51@gmail.com
+
+
 
